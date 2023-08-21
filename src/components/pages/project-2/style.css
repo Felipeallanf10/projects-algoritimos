@@ -1,0 +1,21 @@
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 55px;
+  margin: 0 auto;
+}
+#voltar:hover {
+  opacity: 0.8;
+}
+
+.box {
+  display: flex;
+  gap: 10px;
+}
